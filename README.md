@@ -1,2 +1,0 @@
-# Amirbek
-My first file
